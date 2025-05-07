@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="natavanmenu-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu\.WebApi\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Menu.Presentation.Contexts.MenuDbContext" description="" value="Data Source=SQL6032.site4now.net;Initial Catalog=db_ab8a11_menudb;User Id=db_ab8a11_menudb_admin;Password=Shayis16_" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu\.WebApi\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\Menu\.Presentation\.Contexts\.MenuDbContext\.sql$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\wwwroot\\files\\category_images\\bb078c05-4dbe-4348-b284-0a83b0c51dab.webp",
+      "PackagePath": "staticwebassets\\files\\category_images\\bb078c05-4dbe-4348-b284-0a83b0c51dab.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Menu.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Menu.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Menu.WebApi.props",
+      "PackagePath": "build\\Menu.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Menu.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\Menu.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Menu.WebApi.props",
+      "PackagePath": "buildTransitive\\Menu.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

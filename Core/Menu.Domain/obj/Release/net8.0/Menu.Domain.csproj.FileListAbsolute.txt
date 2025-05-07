@@ -1,0 +1,12 @@
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\bin\Release\net8.0\Menu.Domain.deps.json
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\bin\Release\net8.0\Menu.Domain.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\bin\Release\net8.0\Menu.Domain.pdb
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\Menu.Domain.csproj.AssemblyReference.cache
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\Menu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\Menu.Domain.AssemblyInfoInputs.cache
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\Menu.Domain.AssemblyInfo.cs
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\Menu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\Menu.Domain.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\refint\Menu.Domain.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\Menu.Domain.pdb
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Release\net8.0\ref\Menu.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.csproj.AssemblyReference.cache
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.AssemblyInfoInputs.cache
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.AssemblyInfo.cs
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.csproj.CoreCompileInputs.cache
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\bin\Debug\net8.0\Menu.Application.deps.json
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\bin\Debug\net8.0\Menu.Application.runtimeconfig.json
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\bin\Debug\net8.0\Menu.Application.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\bin\Debug\net8.0\Menu.Application.pdb
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\bin\Debug\net8.0\Menu.Domain.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\bin\Debug\net8.0\Menu.Domain.pdb
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.App.D785F2F7.Up2Date
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\refint\Menu.Application.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.pdb
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.genruntimeconfig.cache
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\ref\Menu.Application.dll
