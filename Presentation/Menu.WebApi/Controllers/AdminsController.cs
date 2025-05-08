@@ -21,7 +21,7 @@ namespace Menu.Controllers
 
         ///<summary>
         /// Yeni admin qeydiyyatı
-        ///// </summary>
+        /// </summary>
         //[HttpPost("register")]
         //public async Task<IActionResult> Register([FromBody] RegisterDto registerDto)
         //{

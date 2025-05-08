@@ -15,3 +15,4 @@ C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\refint\M
 C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.pdb
 C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.genruntimeconfig.cache
 C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\ref\Menu.Application.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Application\obj\Debug\net8.0\Menu.Application.sourcelink.json

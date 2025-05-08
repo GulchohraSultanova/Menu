@@ -1,11 +1,7 @@
-﻿using Menu.Domain.Entities;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
+﻿// Presentation/Configuration/CategoryConfiguration.cs
+using Menu.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Menu.Presentation.Configuration
 {
@@ -13,35 +9,36 @@ namespace Menu.Presentation.Configuration
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
-            // Cədvəl adı
             builder.ToTable("Categories");
-
-            // Primary key
             builder.HasKey(c => c.Id);
 
-            // Sahə tənzimləmələri
             builder.Property(c => c.Name)
-                .IsRequired()
-                .HasMaxLength(200);
+                   .IsRequired()
+                   .HasMaxLength(200);
 
             builder.Property(c => c.NameEng)
-                .HasMaxLength(200);
+                   .HasMaxLength(200);
 
             builder.Property(c => c.NameRu)
-                .HasMaxLength(200);
-
+                   .HasMaxLength(200);
 
             builder.Property(c => c.CategoryImage)
-                .HasMaxLength(500);
+                   .HasMaxLength(500);
 
+            // 1) Category → Products (one-to-many)
             builder.HasMany(c => c.Products)
-               .WithOne(p => p.Category)
-               .HasForeignKey(p => p.CategoryId);
-            // Soft-delete üçün global filter
+                   .WithOne(p => p.Category)
+                   .HasForeignKey(p => p.CategoryId)
+                   .OnDelete(DeleteBehavior.Cascade);
 
+            // 2) Self-reference: Parent ↔ SubCategories
+            builder.HasOne(c => c.ParentCategory)
+                   .WithMany(c => c.SubCategories)
+                   .HasForeignKey(c => c.ParentCategoryId)
+                   .OnDelete(DeleteBehavior.Restrict);
 
-            // Əgər Service sinfində CategoryId və Category naviqasiyası varsa:
-
+            // Soft-delete filter (əgər BaseEntity-də IsDeleted varsa)
+            builder.HasQueryFilter(c => !c.IsDeleted);
         }
     }
 }

@@ -17,3 +17,4 @@ C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Infrastructure\obj\Debug\ne
 C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Infrastructure\obj\Debug\net8.0\Menu.Infrastructure.pdb
 C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Infrastructure\obj\Debug\net8.0\Menu.Infrastructure.genruntimeconfig.cache
 C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Infrastructure\obj\Debug\net8.0\ref\Menu.Infrastructure.dll
+C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Infrastructure\obj\Debug\net8.0\Menu.Infrastructure.sourcelink.json

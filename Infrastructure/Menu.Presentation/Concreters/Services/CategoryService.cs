@@ -10,6 +10,7 @@ using Menu.Application.GlobalAppException;
 using Menu.Domain.Entities;
 using Menu.Application.Absrtacts.Repositories.Categorys;
 using Menu.Application.Absrtacts.Services;
+using System.Threading;
 
 namespace Menu.Presentation.Concreters.Services
 {
@@ -44,29 +45,35 @@ namespace Menu.Presentation.Concreters.Services
             return _mapper.Map<CategoryDto>(category);
         }
 
-        public async Task<CategoryDto?> GetCategoryAsync(string categoryId)
+        public async Task<CategoryDto?> GetCategoryAsync(string id)
         {
-            if (!Guid.TryParse(categoryId, out var cid))
+            if (!Guid.TryParse(id, out var gid))
                 throw new GlobalAppException("Yanlış Category ID!");
 
-            var category = await _categoryReadRepo.GetAsync(
-                c => !c.IsDeleted && c.Id == cid,
-                q => q.Include(c => c.Products)
+            var cat = await _categoryReadRepo.GetAsync(
+                c => !c.IsDeleted && c.Id == gid,
+                q => q.Include(c => c.Products)                      // ana kategorinin ürünleri
+        .Include(c => c.SubCategories)                 // alt kategoriler
+            .ThenInclude(sc => sc.Products)
             );
+            if (cat == null) return null;
 
-            return category == null
-                ? null
-                : _mapper.Map<CategoryDto>(category);
+            // if this is a sub-category, clear its SubCategories list
+            if (cat.ParentCategoryId != null)
+                cat.SubCategories = null;
+
+            return _mapper.Map<CategoryDto>(cat);
         }
 
         public async Task<List<CategoryDto>> GetAllCategorysAsync()
         {
-            var categories = await _categoryReadRepo.GetAllAsync(
-                c => !c.IsDeleted,
-                q => q.Include(c => c.Products)
+            var roots = await _categoryReadRepo.GetAllAsync(
+                c => !c.IsDeleted && c.ParentCategoryId == null,
+                q => q.Include(c => c.Products)                      // ana kategorinin ürünleri
+        .Include(c => c.SubCategories)                 // alt kategoriler
+            .ThenInclude(sc => sc.Products)
             );
-
-            return _mapper.Map<List<CategoryDto>>(categories);
+            return _mapper.Map<List<CategoryDto>>(roots);
         }
 
         public async Task<CategoryDto> UpdateCategoryAsync(UpdateCategoryDto dto)
@@ -108,5 +115,6 @@ namespace Menu.Presentation.Concreters.Services
             await _categoryWriteRepo.UpdateAsync(category);
             await _categoryWriteRepo.CommitAsync();
         }
+
     }
 }

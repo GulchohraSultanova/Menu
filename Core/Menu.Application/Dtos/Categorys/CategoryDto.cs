@@ -14,6 +14,8 @@ namespace Menu.Application.Dtos.Categorys
   
         public string CategoryImage { get; set; }
         public List<ProductDto>? Products { get; set; }
+        // Child categories
+        public List<CategoryDto>? SubCategories { get; set; }
 
 
     }

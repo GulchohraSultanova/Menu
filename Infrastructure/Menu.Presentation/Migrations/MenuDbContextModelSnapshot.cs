@@ -133,7 +133,12 @@ namespace Menu.Presentation.Migrations
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)");
 
+                    b.Property<Guid?>("ParentCategoryId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("ParentCategoryId");
 
                     b.ToTable("Categories", (string)null);
                 });
@@ -329,6 +334,16 @@ namespace Menu.Presentation.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Menu.Domain.Entities.Category", b =>
+                {
+                    b.HasOne("Menu.Domain.Entities.Category", "ParentCategory")
+                        .WithMany("SubCategories")
+                        .HasForeignKey("ParentCategoryId")
+                        .OnDelete(DeleteBehavior.Restrict);
+
+                    b.Navigation("ParentCategory");
+                });
+
             modelBuilder.Entity("Menu.Domain.Entities.Product", b =>
                 {
                     b.HasOne("Menu.Domain.Entities.Category", "Category")
@@ -394,6 +409,8 @@ namespace Menu.Presentation.Migrations
             modelBuilder.Entity("Menu.Domain.Entities.Category", b =>
                 {
                     b.Navigation("Products");
+
+                    b.Navigation("SubCategories");
                 });
 #pragma warning restore 612, 618
         }

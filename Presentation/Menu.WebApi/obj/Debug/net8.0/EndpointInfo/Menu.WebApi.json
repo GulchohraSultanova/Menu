@@ -5,6 +5,37 @@
     "version": "v1"
   },
   "paths": {
+    "/api/Admins/register": {
+      "post": {
+        "tags": [
+          "Admins"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Admins/login": {
       "post": {
         "tags": [
@@ -68,15 +99,12 @@
                   "NameRu": {
                     "type": "string"
                   },
-                  "ProductIds": {
-                    "type": "array",
-                    "items": {
-                      "type": "string"
-                    }
-                  },
                   "CategoryImage": {
                     "type": "string",
                     "format": "binary"
+                  },
+                  "ParentCategoryId": {
+                    "type": "string"
                   }
                 }
               },
@@ -90,10 +118,10 @@
                 "NameRu": {
                   "style": "form"
                 },
-                "ProductIds": {
+                "CategoryImage": {
                   "style": "form"
                 },
-                "CategoryImage": {
+                "ParentCategoryId": {
                   "style": "form"
                 }
               }
@@ -138,11 +166,8 @@
                   "NameRu": {
                     "type": "string"
                   },
-                  "ProductIds": {
-                    "type": "array",
-                    "items": {
-                      "type": "string"
-                    }
+                  "ParentCategoryId": {
+                    "type": "string"
                   },
                   "CategoryImage": {
                     "type": "string",
@@ -163,7 +188,7 @@
                 "NameRu": {
                   "style": "form"
                 },
-                "ProductIds": {
+                "ParentCategoryId": {
                   "style": "form"
                 },
                 "CategoryImage": {
@@ -382,6 +407,28 @@
       "LoginDto": {
         "type": "object",
         "properties": {
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RegisterDto": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "surname": {
+            "type": "string",
+            "nullable": true
+          },
           "email": {
             "type": "string",
             "nullable": true

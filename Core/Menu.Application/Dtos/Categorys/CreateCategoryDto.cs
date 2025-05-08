@@ -8,9 +8,10 @@ namespace Menu.Application.Dtos.Categorys
         public string Name { get; set; }
         public string NameEng { get; set; }
         public string NameRu { get; set; }
-        public List<string>? ProductIds { get; set; }
+       
 
         public IFormFile?  CategoryImage { get; set; }
-   
+        public string? ParentCategoryId { get; set; }
+
     }
 }

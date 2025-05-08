@@ -3,60 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\gulco\\source\\repos\\Menu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\migrations\\20250507105558_createmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\migrations\\20250507105558_createmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|solutionrelative:core\\menu.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\repositories\\products\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\repositories\\products\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\abstracts\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\abstracts\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\categorys\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\categorys\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\categorys\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\categorys\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\categorys\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\categorys\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|solutionrelative:core\\menu.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\abstracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\abstracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|solutionrelative:core\\menu.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\repositories\\categorys\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\repositories\\categorys\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\repositories\\products\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\repositories\\products\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\repositories\\products\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\repositories\\products\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\repositories\\categorys\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\repositories\\categorys\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\migrations\\20250507105558_createmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\migrations\\20250507105558_createmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\abstracts\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\abstracts\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\repositories\\categorys\\categoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,48 +131,12 @@
       "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\abstracts\\repositories\\products\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\abstracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\abstracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\categorys\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\categorys\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|c:\\users\\gulco\\source\\repos\\menu\\presentation\\menu.webapi\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726CBEEB-026C-4105-AC3C-4A70F807CA27}|Presentation\\Menu.WebApi\\Menu.WebApi.csproj|solutionrelative:presentation\\menu.webapi\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\concreters\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\concreters\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\abstracts\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\abstracts\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\categorys\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\categorys\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.application\\dtos\\categorys\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F98DE2-38B7-468F-BF32-D9B34CF726F9}|Core\\Menu.Application\\Menu.Application.csproj|solutionrelative:core\\menu.application\\dtos\\categorys\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|c:\\users\\gulco\\source\\repos\\menu\\core\\menu.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29E2BC6-541C-4F25-B374-B0B5A62431E6}|Core\\Menu.Domain\\Menu.Domain.csproj|solutionrelative:core\\menu.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|c:\\users\\gulco\\source\\repos\\menu\\infrastructure\\menu.presentation\\migrations\\20250507124245_editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0407B-1C90-48A2-AC31-D8461D81E2E4}|Infrastructure\\Menu.Presentation\\Menu.Presentation.csproj|solutionrelative:infrastructure\\menu.presentation\\migrations\\20250507124245_editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,50 +146,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 81,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\Menu.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\appsettings.json",
-              "RelativeToolTip": "Presentation\\Menu.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T12:53:29.412Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250507124245_EditProduct.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
-              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:42:45.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250507105558_CreateModels.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
-              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAgwBkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:41:53.359Z",
+              "WhenOpened": "2025-05-08T11:33:34.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
+              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:33:16.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:33:51.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:34:25.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:35:32.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:42:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Application\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "Core\\Menu.Application\\Profiles\\ProductProfile.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:35:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswD8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:57:59.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:46:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
+              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:15:17.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
+              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:38:33.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategorysController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
+              "RelativeToolTip": "Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:49:22.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\Menu.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:32:53.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:38:19.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Domain\\Entities\\Product.cs",
@@ -189,12 +341,11 @@
               "RelativeToolTip": "Core\\Menu.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:41:29.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:41:29.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "CategoryWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Categorys\\CategoryWriteRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Categorys\\CategoryWriteRepository.cs",
@@ -202,16 +353,11 @@
               "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Categorys\\CategoryWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:24:03.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-05-07T12:24:03.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ProductWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Products\\ProductWriteRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Products\\ProductWriteRepository.cs",
@@ -219,12 +365,11 @@
               "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Products\\ProductWriteRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwA0AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:22:28.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:22:28.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ProductReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Products\\ProductReadRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Products\\ProductReadRepository.cs",
@@ -232,25 +377,11 @@
               "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Products\\ProductReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:21:04.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:21:04.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
-              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\ProductService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:15:17.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "UpdateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Products\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Products\\UpdateProductDto.cs",
@@ -258,25 +389,47 @@
               "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Products\\UpdateProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:38:36.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T11:38:36.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
-              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Products\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Menu.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\appsettings.json",
+              "RelativeToolTip": "Presentation\\Menu.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T12:53:29.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250507105558_CreateModels.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
+              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Migrations\\20250507105558_CreateModels.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwBkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:38:33.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:41:53.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 33,
+              "Title": "20250507124245_EditProduct.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
+              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Migrations\\20250507124245_EditProduct.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:42:45.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Products\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Products\\CreateProductDto.cs",
@@ -284,12 +437,11 @@
               "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Products\\CreateProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:38:29.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T11:38:29.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "CategoryReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Categorys\\CategoryReadRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Categorys\\CategoryReadRepository.cs",
@@ -297,12 +449,11 @@
               "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\Categorys\\CategoryReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:23:57.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:23:57.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "WriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\WriteRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\WriteRepository.cs",
@@ -310,12 +461,11 @@
               "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\WriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:23:13.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:23:13.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Presentation\\Menu.WebApi\\Controllers\\ProductsController.cs",
@@ -323,12 +473,11 @@
               "RelativeToolTip": "Presentation\\Menu.WebApi\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:15:42.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:15:42.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Services\\IProductService.cs",
@@ -336,12 +485,11 @@
               "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:07:03.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:07:03.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\ServiceRegistration.cs",
@@ -349,12 +497,11 @@
               "RelativeToolTip": "Infrastructure\\Menu.Presentation\\ServiceRegistration.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwB8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:48:08.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T11:48:08.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "ReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\ReadRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\ReadRepository.cs",
@@ -362,12 +509,11 @@
               "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Repositories\\ReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:23:46.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:23:46.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "IWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Repositories\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Repositories\\IWriteRepository.cs",
@@ -375,12 +521,11 @@
               "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Repositories\\IWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:23:30.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:23:30.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Repositories\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Repositories\\IReadRepository.cs",
@@ -388,12 +533,11 @@
               "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Repositories\\IReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:23:26.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:23:26.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "IProductWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Repositories\\Products\\IProductWriteRepository.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Repositories\\Products\\IProductWriteRepository.cs",
@@ -401,12 +545,11 @@
               "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Repositories\\Products\\IProductWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:19:48.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:19:48.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "IProductReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Repositories\\Products\\IProductReadRepository.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Repositories\\Products\\IProductReadRepository.cs",
@@ -414,51 +557,11 @@
               "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Repositories\\Products\\IProductReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:18:55.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:18:55.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AdminsController.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
-              "RelativeToolTip": "Presentation\\Menu.WebApi\\Controllers\\AdminsController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAowG4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:57:59.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CategorysController.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
-              "RelativeToolTip": "Presentation\\Menu.WebApi\\Controllers\\CategorysController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAswGgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:49:22.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Infrastructure\\Menu.Presentation\\Concreters\\Services\\CategoryService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwG0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:42:42.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "IAdminService.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Services\\IAdminService.cs",
               "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Services\\IAdminService.cs",
@@ -466,99 +569,7 @@
               "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Services\\IAdminService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:41:28.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
-              "RelativeToolTip": "Core\\Menu.Application\\Abstracts\\Services\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:38:19.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Application\\Profiles\\ProductProfile.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\ProductProfile.cs",
-              "RelativeToolTip": "Core\\Menu.Application\\Profiles\\ProductProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:35:43.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
-              "RelativeToolTip": "Core\\Menu.Application\\Profiles\\CategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:35:32.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
-              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Categorys\\CreateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:33:51.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UpdateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
-              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Categorys\\UpdateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:34:25.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
-              "RelativeToolTip": "Core\\Menu.Application\\Dtos\\Categorys\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:33:16.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\Menu.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\Menu\\Core\\Menu.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Core\\Menu.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:32:53.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T11:41:28.623Z"
             }
           ]
         }

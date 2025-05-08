@@ -19,3 +19,4 @@ C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Presentation\obj\Release\ne
 C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Presentation\obj\Release\net8.0\Menu.Presentation.pdb
 C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Presentation\obj\Release\net8.0\Menu.Presentation.genruntimeconfig.cache
 C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Presentation\obj\Release\net8.0\ref\Menu.Presentation.dll
+C:\Users\gulco\source\repos\Menu\Infrastructure\Menu.Presentation\obj\Release\net8.0\Menu.Presentation.sourcelink.json

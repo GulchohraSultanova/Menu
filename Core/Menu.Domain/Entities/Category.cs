@@ -15,8 +15,13 @@ namespace Menu.Domain.Entities
         public string NameRu { get; set; }
         public string CategoryImage { get; set; }
         public List<Product>? Products { get; set; }
-   
-      
+        public Guid? ParentCategoryId { get; set; }
+        public Category? ParentCategory { get; set; }
+
+        // Self-reference üçün: bu kateqoriyanın alt-kateqoriyaları
+        public List<Category>? SubCategories { get; set; }
+
+
 
     }
 }

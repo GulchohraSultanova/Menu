@@ -26,6 +26,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Menu.Controllers.AdminsController",
+    "Method": "Register",
+    "RelativePath": "api/Admins/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "Menu.Application.Dtos.Account.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Menu.WebApi.Controllers.CategorysController",
     "Method": "CreateCategory",
     "RelativePath": "api/Categorys",
@@ -49,13 +65,13 @@
         "IsRequired": false
       },
       {
-        "Name": "ProductIds",
-        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Name": "CategoryImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
         "IsRequired": false
       },
       {
-        "Name": "CategoryImage",
-        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "Name": "ParentCategoryId",
+        "Type": "System.String",
         "IsRequired": false
       }
     ],
@@ -100,8 +116,8 @@
         "IsRequired": false
       },
       {
-        "Name": "ProductIds",
-        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Name": "ParentCategoryId",
+        "Type": "System.String",
         "IsRequired": false
       },
       {

@@ -10,3 +10,4 @@ C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Debug\net8.0\Menu.Domain.d
 C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Debug\net8.0\refint\Menu.Domain.dll
 C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Debug\net8.0\Menu.Domain.pdb
 C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Debug\net8.0\ref\Menu.Domain.dll
+C:\Users\gulco\source\repos\Menu\Core\Menu.Domain\obj\Debug\net8.0\Menu.Domain.sourcelink.json

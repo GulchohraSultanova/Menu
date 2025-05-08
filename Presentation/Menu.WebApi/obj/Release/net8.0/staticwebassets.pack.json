@@ -1,8 +1,20 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\wwwroot\\files\\category_images\\11c83b6a-6efd-44d1-8eb4-2532f58f68df.webp",
+      "PackagePath": "staticwebassets\\files\\category_images\\11c83b6a-6efd-44d1-8eb4-2532f58f68df.webp"
+    },
+    {
       "Id": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\wwwroot\\files\\category_images\\bb078c05-4dbe-4348-b284-0a83b0c51dab.webp",
       "PackagePath": "staticwebassets\\files\\category_images\\bb078c05-4dbe-4348-b284-0a83b0c51dab.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\wwwroot\\files\\category_images\\e6e85253-5ee1-4fce-afc1-f682e08ffa6f.webp",
+      "PackagePath": "staticwebassets\\files\\category_images\\e6e85253-5ee1-4fce-afc1-f682e08ffa6f.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\source\\repos\\Menu\\Presentation\\Menu.WebApi\\wwwroot\\files\\category_images\\f7ea738d-3ddd-4658-9af8-9b91117f1389.webp",
+      "PackagePath": "staticwebassets\\files\\category_images\\f7ea738d-3ddd-4658-9af8-9b91117f1389.webp"
     },
     {
       "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Menu.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

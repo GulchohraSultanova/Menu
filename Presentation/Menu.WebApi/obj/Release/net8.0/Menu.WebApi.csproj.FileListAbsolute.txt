@@ -168,3 +168,4 @@ C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Release\net8.0\ref
 C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Release\net8.0\Menu.WebApi.pdb
 C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Release\net8.0\Menu.WebApi.genruntimeconfig.cache
 C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Release\net8.0\ref\Menu.WebApi.dll
+C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Release\net8.0\Menu.WebApi.sourcelink.json

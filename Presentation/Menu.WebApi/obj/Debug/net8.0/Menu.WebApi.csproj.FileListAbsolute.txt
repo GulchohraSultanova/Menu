@@ -167,3 +167,5 @@ C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Debug\net8.0\Menu.
 C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Debug\net8.0\refint\Menu.WebApi.dll
 C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Debug\net8.0\Menu.WebApi.pdb
 C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Debug\net8.0\ref\Menu.WebApi.dll
+C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Debug\net8.0\Menu.WebApi.sourcelink.json
+C:\Users\gulco\source\repos\Menu\Presentation\Menu.WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
